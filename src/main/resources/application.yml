@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/websocket
+    username: postgres
+    password: Windows12!@
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
