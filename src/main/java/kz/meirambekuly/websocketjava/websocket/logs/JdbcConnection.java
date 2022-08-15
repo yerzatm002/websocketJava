@@ -8,9 +8,9 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class JdbcConnection {
-    private static final String URL = "jdbc:postgresql://localhost:5432/websocket";
-    private static final String USERNAME = "postgres";
-    private static final String PASSWORD = "Windows12!@";
+    private static final String URL = "jdbc:postgresql://SG-websocket-3849-pgsql-master.servers.mongodirector.com:5432/websocket";
+    private static final String USERNAME = "sgpostgres";
+    private static final String PASSWORD = "k991TZNa4g2dI$c5";
 
     @Getter
     @Setter
