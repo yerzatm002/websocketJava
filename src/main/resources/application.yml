@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:postgresql://SG-websocket-3849-pgsql-master.servers.mongodirector.com:5432/websocket
-    username: sgpostgres
-    password: k991TZNa4g2dI$c5
+    url: jdbc:postgresql://javatesting-erzatnis-6188.aivencloud.com:12716/websocket
+    username: avnadmin
+    password: AVNS_VC2ImMu0_wGLRAa3H7i
   jpa:
     hibernate:
       ddl-auto: create-drop
